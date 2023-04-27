@@ -1,0 +1,14 @@
+body{
+    background-color:black;
+}
+h1{
+    color: hotpink;
+    font-family: 'Caveat', cursive;
+    display: flex;
+    justify-content: center;
+}
+p{
+    color:aliceblue;
+    text-align: center;
+    text-justify:auto;
+}
